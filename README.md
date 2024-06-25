@@ -33,25 +33,23 @@ Sales data: the primary data set used for this analysis is the “Sales_data.csv
     
 ### Data Analysis
 
-Some interesting codes/features worked with (use back tick)
+Some interesting codes/features worked with:
 
-***python
+```python
 
 Sales_df = pd. read_csv(“c:/Users/Nasa/Data bank analysis/Dataframes/sales.csv
 
-***
+```
 
-***python
+```python
 
 Sales . columns = [i. lower () for I in sales .columns
 
-***
+```
 
 ```python
 
 Sql = pd.read_sql(select * from sales)
-
-Sql
 
 ```
 
