@@ -1,5 +1,29 @@
 # Sales-Analysis
 Next Supermarket Sales Analysis
+---
+
+## Table of contents
+
+- [Project overview](#project-overview)
+
+- [Data source](#data-source)
+
+- [Tools](#tools)
+
+- [Data cleaning and preparation](#data-cleaning-and-preparation)
+
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+
+- [Data Analysis](#data-analysis)
+
+- [Recommendations](#recommendations)
+
+- [Limitations](#limitations)
+
+- [References](#refernces)
+
+
+
 
 ## Project Overview
 
@@ -60,7 +84,7 @@ Select * from sales;
 ```
 
 
-###Result / findings
+### Result / findings
 
 The following are the summaery of the analysis
 
