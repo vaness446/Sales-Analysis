@@ -20,7 +20,7 @@ Next Supermarket Sales Analysis
 
 - [Limitations](#limitations)
 
-- [References](#refernces)
+- [References](#references)
 
 
 
@@ -83,6 +83,8 @@ Select * from sales;
 
 ```
 
+🥲 🖱️ 💻
+
 
 ### Result / findings
 
@@ -112,6 +114,12 @@ I have to remove all missing values and zeros from Tuesday to Friday columns bec
 
 
 
+
+
+
+  |Column1|Column|Column|
+  |-------|------|------|
+  |Python|Excel|SQL|
 
 
 
